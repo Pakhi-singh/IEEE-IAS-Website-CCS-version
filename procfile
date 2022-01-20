@@ -1,0 +1,1 @@
+web: gunicorn ias-ieee.wsgi --log-file -
